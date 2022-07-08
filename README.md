@@ -1,2 +1,2 @@
-# coding_C
-c
+# coding_things
+c, python and more
